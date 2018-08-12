@@ -5,7 +5,7 @@
 ## Table of Contents
 
 - [Event Specifications](#EventSpecification)
-- [Getting Started](#GettingStarted
+- [Getting Started](#GettingStarted)
 - [Java Resources](#JavaResources)
 - [Android Resources](#AndroidResources)
 - [Announcements](#Announcements)
@@ -40,6 +40,8 @@ Follow this space for further announcements.
 
 
 ## Contributors
+  
+Add yourself to contributors list as you contribute in present format.
 
 * [Mohit Khare](https://github.com/mkfeuhrer)
 
